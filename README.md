@@ -1,4 +1,4 @@
-# Neural-style-transfer Van-Gogh - Picasso - Klimt
+# Neural style transfer: Van-Gogh - Picasso - Klimt
 I developed a multi image style transfer system, able to easily customize any image to have Van Gogh, Picasso, or Klimt style. This work has been performed by building upon the work by Alexis Jacq in 'Neural Transfer Using PyTorch'.
 
 Here you can find:
