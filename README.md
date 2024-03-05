@@ -11,3 +11,6 @@ Here you can find:
   They have all been downloaded from google images
 - [The Outcomes](https://github.com/ANDREAaNAPPI/Neural-style-transfer-Van-Gogh---Picasso---Klimt/tree/main/Output%20images)
 
+
+## One of the outputs: The Scream (Munch) - Klimt style
+![image](https://github.com/ANDREAaNAPPI/Neural-style-transfer-Van-Gogh---Picasso---Klimt/assets/125900848/98d62c45-e3c1-4757-9351-c88ccfa8fc23)
