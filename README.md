@@ -13,4 +13,8 @@ Here you can find:
 
 
 ## One of the outputs: The Scream (Munch) - Klimt style
+### Style images:
 ![image](https://github.com/ANDREAaNAPPI/Neural-style-transfer-Van-Gogh---Picasso---Klimt/assets/125900848/98d62c45-e3c1-4757-9351-c88ccfa8fc23)
+### Content image and Final output:
+![image](https://github.com/ANDREAaNAPPI/Neural-style-transfer-Van-Gogh---Picasso---Klimt/assets/125900848/7870fdeb-5916-4cff-a354-2da47066d585)
+
